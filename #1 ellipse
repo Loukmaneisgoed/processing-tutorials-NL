@@ -1,6 +1,12 @@
+**UPDATE**
+
 void setup () {
   size(500,500);
 }
 void draw () {
   ellipse(100,100,100,100);
+  println("deze text is de text die in de console komt te staan, dit mag je in elk geval ook gewoon bewerken{cirkelellipse} ");  //console text
+  println("op deze'product'zit een DMCA claim alvast bedankt voorwaarden van de claim vindt je in de licentie voorwaarden document/script😀😁");
+  
+
 }
