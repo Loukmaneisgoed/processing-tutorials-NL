@@ -1,0 +1,8 @@
+void setup () {
+  size(500,500);
+}
+void draw () {
+  ellipse(100,100,100,100);
+  println("deze text is de text die in de console komt te staan {cirkelellipse} ");  //console text
+             
+}
