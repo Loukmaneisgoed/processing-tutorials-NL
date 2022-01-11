@@ -1,0 +1,10 @@
+void setup () {
+  size(500,500);
+}
+void draw () {
+  background(#524747);
+  fill(0);
+  text("Hallo allemaal welkom welkom welkom!",25,250);
+}
+
+//denk aan de DCMA claim die erop zit......... ga je toch nie luisteren?Dan zal je afscheid moeten nemen van je github account en wrsch ook dat je er niet meer op komt door een IP block vps lukt ook nie.
